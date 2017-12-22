@@ -1,0 +1,27 @@
+body{
+	
+	background-image:url("background2.jpg");
+        background-position:center;
+        background-repeat:no-repeat;
+	opacity: 0.9;
+        filter: alpha(opacity=90);
+     }
+
+#header{
+    width: 1600px;
+    height: 200px;
+    padding:0px,0px,0px,0px;
+    background-repeat:no-repeat;
+    background-image: url("Background_3.jpg");
+    background-position:left top;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    title:"Discover Around";
+    /*background-color:lavender;*/
+    font-size:600%;
+    font-family:"Zapf Chancery, cursive";
+    color:Black;
+    font-style:Italic;
+    font-weight: bold;
+}
+
